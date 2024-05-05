@@ -30,7 +30,4 @@ This repository contains a Power BI dashboard designed for analyzing sales data 
 - Integrate additional data sources for a more comprehensive analysis.
 - Enhance user interactivity with slicers and filters.
 
-## Credits
-
-This dashboard was created by Syed Taha Yeasin Ramadan and is freely available for use and modification. Contributions and feedback are welcome.
 
